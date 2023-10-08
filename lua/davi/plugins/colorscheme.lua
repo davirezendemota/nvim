@@ -1,7 +1,21 @@
 return {
-  "rafi/awesome-vim-colorschemes",
-  priority = 1000, -- make sure to load this before all the other start plugins
+  "ellisonleao/gruvbox.nvim",
+  priority = 1000,
   config = function()
-   vim.cmd([[colorscheme PaperColor]])
-  end,
+   vim.cmd([[colorscheme gruvbox]])
+  end
 }
+-- return {
+--   "catppuccin/nvim",
+--   priority = 1000,
+--   config = function()
+--    vim.cmd([[colorscheme catppuccin]])
+--   end
+-- }
+-- return {
+--   "rafi/awesome-vim-colorschemes",
+--   priority = 1000,
+--   config = function()
+--    vim.cmd([[colorscheme PaperColor]])
+--   end
+-- }
