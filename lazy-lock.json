@@ -1,8 +1,17 @@
 {
   "awesome-vim-colorschemes": { "branch": "master", "commit": "4b2787b8894c4a70c42d15c2808d7cf278cb6abb" },
-  "lazy.nvim": { "branch": "main", "commit": "62745a7320f48a00ac4f7b0591352608cbc6bcea" },
-  "neogit": { "branch": "master", "commit": "ed99c59d7fda3ba5e2ce9a3adc0a8eb5ebfa6c8f" },
+  "emmet-vim": { "branch": "master", "commit": "def5d57a1ae5afb1b96ebe83c4652d1c03640f4d" },
+  "lazy.nvim": { "branch": "main", "commit": "9d92e65fd17d35f97bed43dc92810576a57376fc" },
+  "neogit": { "branch": "master", "commit": "5b109bf06bbfbf1b02cd8e715dc96455a86b4691" },
   "nerdtree": { "branch": "master", "commit": "32168889bdbc1e7d1d313e3e41c1cc794b38eac5" },
   "plenary.nvim": { "branch": "master", "commit": "9ce85b0f7dcfe5358c0be937ad23e456907d410b" },
-  "vim-devicons": { "branch": "master", "commit": "71f239af28b7214eebb60d4ea5bd040291fb7e33" }
+  "tagbar": { "branch": "master", "commit": "5d6990e4fc5b3e3b88a3af90146f2561c4f6d828" },
+  "vim-airline": { "branch": "master", "commit": "f1ba5a03db44adf6f95f08b9970019e6658bc748" },
+  "vim-commentary": { "branch": "master", "commit": "e87cd90dc09c2a203e13af9704bd0ef79303d755" },
+  "vim-css-color": { "branch": "master", "commit": "6cc65734bc7105d9677ca54e2255fcbc953ba6bf" },
+  "vim-devicons": { "branch": "master", "commit": "71f239af28b7214eebb60d4ea5bd040291fb7e33" },
+  "vim-multiple-cursors": { "branch": "master", "commit": "6456718e1d30b42c04b920c5413ca44f68f08759" },
+  "vim-signature": { "branch": "master", "commit": "6bc3dd1294a22e897f0dcf8dd72b85f350e306bc" },
+  "vim-surround": { "branch": "master", "commit": "3d188ed2113431cf8dac77be61b842acb64433d9" },
+  "vim-terminal": { "branch": "master", "commit": "977a60d1fb50fdcd87e2618eaad3e2e487ee3f44" }
 }

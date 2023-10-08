@@ -1,3 +1,4 @@
+  vim.api.nvim_set_keymap('n', '<C-g>', ':Neogit<CR>', {noremap= true, silent = true})
  vim.api.nvim_set_keymap('x', '<S-C>', ':"<,"<w !xclip -selection clipboard<CR>', { noremap = true })
  vim.api.nvim_set_keymap('n', '<C-m>', ':tabn<cr>', { noremap = true })
  vim.api.nvim_set_keymap('n', '<C-t>', ':tabnew<cr>', { noremap = true })
