@@ -7,13 +7,21 @@ return {
 }
 -- return {
 --   "catppuccin/nvim",
+--   name = "catppuccin",
+--   priority = 1000,
+--   config = function()
+--     vim.cmd([[colorscheme catppuccin-mocha]])
+--   end
+-- }
+-- return {
+--   "catppuccin/nvim",
 --   priority = 1000,
 --   config = function()
 --    vim.cmd([[colorscheme catppuccin]])
 --   end
 -- }
 -- return {
---   "rafi/awesome-vim-colorschemes",
+--   "NLKNguyen/papercolor-theme",
 --   priority = 1000,
 --   config = function()
 --    vim.cmd([[colorscheme PaperColor]])

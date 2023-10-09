@@ -3,7 +3,6 @@ return {
    'tpope/vim-commentary',
    'vim-airline/vim-airline',
    'ap/vim-css-color',
-   'ryanoasis/vim-devicons',
    'terryma/vim-multiple-cursors',
    'preservim/tagbar',
    'kshenoy/vim-signature',
