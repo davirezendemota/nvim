@@ -11,3 +11,7 @@ vim.api.nvim_set_keymap('n', '<C-l>', '<C-w>l', { noremap = true })
 vim.api.nvim_set_keymap('i', '<cr>', '"<c-g>u<CR>"', { noremap = true, silent = true, expr = true })
 vim.api.nvim_set_keymap('n', '<S-k>', '<Nop>', { noremap = true })
 vim.api.nvim_set_keymap('n', 'q', '<Nop>', { noremap = true })
+
+-- NERDTREE
+vim.api.nvim_set_keymap('n', '<C-b>', ':call NERDTreeToggleAndRefresh()<CR>', { noremap = true })
+vim.api.nvim_set_keymap('n', '<C-f>', ':NERDTreeFocus<CR>', { noremap = true })
