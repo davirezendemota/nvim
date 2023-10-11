@@ -6,5 +6,4 @@ return {
    'terryma/vim-multiple-cursors',
    'preservim/tagbar',
    'kshenoy/vim-signature',
-   'mattn/emmet-vim'
 }
