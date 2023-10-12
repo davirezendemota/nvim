@@ -1,5 +1,5 @@
 vim.api.nvim_set_keymap('n', '<C-g>', ':Neogit<CR>', {noremap= true, silent = true})
-vim.api.nvim_set_option("clipboard","unnamed")
+vim.api.nvim_set_option("clipboard","unnamedplus")
 vim.api.nvim_set_keymap('n', '<C-m>', ':tabn<cr>', { noremap = true })
 vim.api.nvim_set_keymap('n', '<C-t>', ':tabnew<cr>', { noremap = true })
 vim.api.nvim_set_keymap('n', '<C-p>', ':TerminalSplit bash<CR>', { noremap = true })
