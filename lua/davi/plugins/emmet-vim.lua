@@ -1,5 +1,6 @@
 return {
   "mattn/emmet-vim",
-  config = true
+  config = function ()
+  end
 }
 
